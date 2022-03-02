@@ -362,6 +362,7 @@ nav {
 .contact {
     background-image: url("../image/contact.jpg");
     background-size: cover;
+    background-attachment: fixed;
     padding: 150px 0;
 }
 
